@@ -30,5 +30,4 @@ weight = 5
 +++
 
 # Biography
-I'm Maximiliano Osorio, a Master student at Universidad Técnica Federico Santa María. My research interests include Semantic Web, P2P Networks, Operating Systems and Docker Containers. 
-
+I’m Maximiliano Osorio, a Master student at Universidad Técnica Federico Santa María. My research interests include Semantic Web, P2P Networks, Operating Systems and, Docker Containers.
