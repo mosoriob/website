@@ -1,31 +1,23 @@
 +++
-title = "Docker security: Using Containers safely"
 date = 2017-07-12T12:00:13-03:00  # Schedule page publish date.
-draft = false
+title = "Docker security: Using Containers safely"
+time_start = 2030-06-01T13:00:00
+time_end = 2030-06-01T15:00:00
 
-# Abstract and optional shortened version.
-abstract = ""
+
+abstract = "How to use Docker containers safely"
 abstract_short = ""
-
-# Name of event and optional event URL.
 event = "Charlas CiberSeguridad UTFSM"
-event_url = ""
-
-# Location of event.
-location = ""
+event_url = "http://www.eventos.usm.cl/evento/charlas-ciberseguridad-seguridad-en-docker-containers/"
+location = "Valparaíso, Chile"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["docker"]
+projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = "pdf/containers-safely.pdf"
@@ -34,7 +26,7 @@ url_video = ""
 url_code = ""
 
 # Does the content use math formatting?
-math = false
+math = true
 
 # Does the content use source code highlighting?
 highlight = true
@@ -42,7 +34,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
 
 +++
+
+Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
