@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am part-time teacher for the following courses at Universidad Técnica Federico Santa María 
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- [Software Deployment](https://github.com/sirspock/SDW) (2017-2) 
+- Operating Systems (2017-2) 
+- Intro to Linux System Administration (2015-2,2017-1)
