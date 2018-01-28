@@ -1,8 +1,8 @@
 +++
 date = 2017-07-12T12:00:13-03:00  # Schedule page publish date.
 title = "Docker security: Using Containers safely"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2017-07-12T12:00:00
+time_end = 2017-07-12T13:00:00
 
 
 abstract = "How to use Docker containers safely"
