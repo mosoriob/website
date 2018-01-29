@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mosorio@inf.utfsm.cl"
   address = "F119, Universidad Técnica Federico Santa María, Valparaíso, Chile"
-  telegram = "sirspock"
+  telegram = "maxiosorio"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
