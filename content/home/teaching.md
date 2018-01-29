@@ -24,5 +24,5 @@ I am part-time teacher for the following courses at Universidad Técnica Federic
 
 As co-advisor, I work with:
 
- - Gonzalo Moya - Undergraduate, final project (2018). Main advisor: Horst von Brand
  - Tomás Gonzalez - Undergraduate, final project (2018). Main advisor: Carlos Buil-Aranda
+ - Gonzalo Moya - Undergraduate, final project (2017). Main advisor: Horst von Brand
