@@ -31,3 +31,4 @@ weight = 5
 
 # Biography
 I’m Maximiliano Osorio, a Master student at Universidad Técnica Federico Santa María. My research interests include Semantic Web, P2P Networks, Operating Systems, and Docker Containers.
+Also, I'm [Red Hat Certified Engineer](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-034). 
