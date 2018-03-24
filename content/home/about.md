@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Semantic Web",
+    "Internet of Things",
     "P2P Networks",
     "Operating Systems"
   ]
