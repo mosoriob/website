@@ -21,7 +21,7 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://github.com/sirspock/labs/slides.pdf"
+url_slides = "https://github.com/sirspock/labs/blob/master/slides.pdf"
 url_video = ""
 url_code = "https://github.com/sirspock/labs"
 
