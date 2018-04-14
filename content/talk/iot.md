@@ -20,7 +20,7 @@ selected = true
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://github.com/sirspock/labs"
 url_slides = ""
 url_video = ""
 url_code = ""
