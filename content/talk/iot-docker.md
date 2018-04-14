@@ -21,9 +21,9 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://github.com/sirspock/labs/slides.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/sirspock/labs"
 
 # Does the content use math formatting?
 math = true
