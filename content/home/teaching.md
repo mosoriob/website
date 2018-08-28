@@ -17,12 +17,15 @@ weight = 60
 
 I am part-time teacher for the following courses at Universidad Técnica Federico Santa María 
 
-- [Software Deployment](https://github.com/sirspock/SDW) (2017-2) 
-- Operating Systems (2017-2) 
+- Operating Systems (2017-2, 2018-2) 
+- [Software Deployment](https://github.com/sirspock/SDW) (2017-2, 2018-1) 
 - Intro to Linux System Administration (2015-2,2017-1)
 
 
 As co-advisor, I work with:
 
  - Tomás Gonzalez - Undergraduate, final project (2018). Main advisor: Carlos Buil-Aranda
+
+And I worked with:
+
  - Gonzalo Moya - Undergraduate, final project (2017). Main advisor: Horst von Brand

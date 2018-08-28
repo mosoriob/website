@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Linux",
+    "Containers",
     "Semantic Web",
-    "Internet of Things",
-    "P2P Networks",
     "Operating Systems"
   ]
 
@@ -31,5 +31,5 @@ weight = 5
 +++
 
 # Biography
-I’m Maximiliano Osorio, a Master student at Universidad Técnica Federico Santa María. My research interests include Semantic Web, P2P Networks, Operating Systems, and Docker Containers.
+I’m Maximiliano Osorio, a Master student at Universidad Técnica Federico Santa María. My research interests include Docker Containers and Semantic Web.
 Also, I'm [Red Hat Certified Engineer](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-034). 
