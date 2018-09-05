@@ -1,20 +1,20 @@
 +++
-title = "Dockerpedia"
-date = 2018-08-28T17:29:05-03:00
+title = "Jovial"
+date = 2018-09-05T14:05:51-03:00
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["", "deep-learning"]`
-tags = ["docker"]
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["astronomy"]
 
 # Project summary to display on homepage.
-summary = "DockerPedia provides a vulnerability analysis of 150 thousand most popular Docker images  and a visualization of them"
+summary = "The Jupyter OVerride for Astronomical Libraries (JOVIAL) is notebook-based cloud environment to process astronomical data on-line. This service provides Jupyter Notebooks to astronomers, that are executed in the cloud under a python environment"
 
 # Optional image to display on homepage.
-image_preview = "dockerpedia.png"
+image_preview = "jovial.jpeg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://dockerpedia.inf.utfsm.cl"
+external_link = "https://www.chivo.cl/services"
 
 # Does the project detail page use math formatting?
 math = false
