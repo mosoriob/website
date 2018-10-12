@@ -27,6 +27,7 @@ abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
+url_poster = "pdf/dockerpedia-poster.pdf"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -28,7 +28,9 @@ abstract_short = "We propose to use containers for distributing software experim
 # Featured image thumbnail (optional)
 image_preview = ""
 url_pdf = "https://semsci.github.io/SemSci2018/papers/5/SemSci_2018_paper_5.pdf"
-
+url_project = "https://dockerpedia.inf.utfsm.cl"
+url_slides = "pdf/semsci-iswc-2018.pdf"
+url_poster = "pdf/dockerpedia-poster.pdf"
 # Is this a selected publication? (true/false)
 selected = true
 
