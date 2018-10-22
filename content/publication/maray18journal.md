@@ -28,7 +28,7 @@ abstract_short = "The Jupyter OVerride for Astronomical Libraries (JOVIAL) is no
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 url_pdf = "pdf/jovial.pdf"
 
