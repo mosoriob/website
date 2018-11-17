@@ -19,7 +19,7 @@ selected = false
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 
 # Links (optional).
-#url_pdf = "pdf/containers-safely.pdf"
+url_pdf = "pdf/starsconf-2018.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
