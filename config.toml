@@ -214,12 +214,8 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mosorio@inf.utfsm.cl"
+    link = "mailto:maxiosorio+contact@gmail.com"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/sirspock"
 
   [[params.social]]
     icon = "google-scholar"
@@ -229,12 +225,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/sirspock"
+    link = "//github.com/mosoriob"
 
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/resume.pdf"
+    link = "https://github.com/mosoriob/resume/raw/main/resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
